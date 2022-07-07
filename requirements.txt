@@ -1,9 +1,0 @@
-pandas
-seaborn
-matplotlib
-fitter
-plotly==5.9.0
-sklearn
-scikit-learn
-statsmodels
-pandas_profiling
