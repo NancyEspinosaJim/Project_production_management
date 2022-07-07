@@ -20,6 +20,7 @@ _Los requisitos se encuentran en la carpeta de notebooks en el archivo **require
 
 ```
 pip install --user -r requirements.txt
+```
 
 ## Wiki 📖
 
@@ -30,8 +31,8 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en … Proximamente
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Stefania Perez** - [villanuevand](https://github.com/villanuevand)
-* **Nancy Espinosa** - [fulanitodetal](#fulanito-de-tal)
+* **Stefania Perez** - [villanuevand](https://github.com/)
+* **Nancy Espinosa** - [fulanitodetal]([#fulanito-de-tal](https://github.com/))
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
