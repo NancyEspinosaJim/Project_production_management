@@ -1,0 +1,5 @@
+numpy~=1.22.3
+pandas~=1.4.2
+PuLP~=2.6.0
+openpyxl~=3.0.9
+scipy~=1.8.1
