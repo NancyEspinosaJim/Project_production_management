@@ -29,16 +29,12 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en … Proximamente
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Stefania Perez** - [villanuevand](https://github.com/)
-* **Nancy Espinosa** - [fulanitodetal]([#fulanito-de-tal](https://github.com/))
+* **Stefania Perez** - [GitHub - Personal](https://github.com/StefaniaPerezV) - Stefaniaperezv@gmail.com
+* **Nancy Espinosa** - [GitHub - Personal](https://github.com/NancyEspinosaj) - nancyespinosaj@gmail.com
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+* Gracias a todos los que participaron directa o indirectamente en la contruccion de este proyecto 
